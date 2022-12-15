@@ -1,2 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    margin: 20px;
+}
+#button-2{
+    color: grey;
+}
 
+#button-3 {
+    height: 50px;
+    width: 120px;
+}
 /* Your CSS Code here. */
